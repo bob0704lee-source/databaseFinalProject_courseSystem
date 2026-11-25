@@ -1,0 +1,7 @@
+# 排除模型與壓縮資料集
+*.pth
+data/ 
+.venv/
+__pycache__/
+*.pyc
+.env
